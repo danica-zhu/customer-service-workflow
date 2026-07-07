@@ -90,3 +90,10 @@ To extend this from a classification pipeline into a full triage *workflow*, the
 ## Key Takeaway
 
 A raw accuracy number without diagnosis is not very informative. The more useful output of this project is the root-cause analysis: the classification bottleneck traces back to ambiguous label definitions in the queue taxonomy (specifically the Technical Support / IT Support / Product Support overlap, and the Customer Service catch-all problem) rather than to Claude's language understanding, which held up consistently across five languages.
+
+## screenshot
+<img width="1169" height="612" alt="image" src="https://github.com/user-attachments/assets/4e959773-48e6-4b15-9650-ccaf34823a6d" />
+<img width="957" height="329" alt="image" src="https://github.com/user-attachments/assets/707e0f76-d478-49da-93e1-314653e7f0ff" />
+<img width="1037" height="506" alt="image" src="https://github.com/user-attachments/assets/957b3747-0975-4edc-be10-f80def518e6d" />
+
+
